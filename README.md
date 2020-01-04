@@ -1,0 +1,1 @@
+# shopee-nextprev-shortcut-userscript
